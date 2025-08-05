@@ -1,0 +1,16 @@
+# Ignore build results
+**/bin/
+**/obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Ignore node modules
+**/node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore VSCode settings
+.vscode/
