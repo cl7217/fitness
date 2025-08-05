@@ -1,0 +1,74 @@
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DAL\bin\Debug\net6.0\DAL.deps.json
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DAL\bin\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DAL\bin\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DAL\obj\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DAL\obj\Debug\net6.0\refint\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DAL\obj\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\העתקת פרויקטים\c#\project\server_side\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\העתקת פרויקטים\c#\project\server_side\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\העתקת פרויקטים\c#\project\server_side\DAL\bin\Debug\net6.0\DAL.dll
+D:\העתקת פרויקטים\c#\project\server_side\DAL\bin\Debug\net6.0\DAL.pdb
+D:\העתקת פרויקטים\c#\project\server_side\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\העתקת פרויקטים\c#\project\server_side\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\העתקת פרויקטים\c#\project\server_side\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\העתקת פרויקטים\c#\project\server_side\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\העתקת פרויקטים\c#\project\server_side\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\העתקת פרויקטים\c#\project\server_side\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+D:\העתקת פרויקטים\c#\project\server_side\DAL\obj\Debug\net6.0\DAL.dll
+D:\העתקת פרויקטים\c#\project\server_side\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\העתקת פרויקטים\c#\project\server_side\DAL\obj\Debug\net6.0\DAL.pdb
+D:\העתקת פרויקטים\c#\project\server_side\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\העתקת פרויקטים\c#\project\server_side\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\bin\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\bin\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\obj\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\obj\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\bin\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\bin\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\obj\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\obj\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\bin\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\bin\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\obj\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\obj\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DAL\obj\Debug\net6.0\ref\DAL.dll

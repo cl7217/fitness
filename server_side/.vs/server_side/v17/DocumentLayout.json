@@ -1,0 +1,467 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|solutionrelative:server_side\\controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|solutionrelative:server_side\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\bll\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|solutionrelative:bll\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|solutionrelative:server_side\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|solutionrelative:dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|solutionrelative:server_side\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|solutionrelative:server_side\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\bll\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|solutionrelative:bll\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\bll\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|solutionrelative:bll\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\bll\\irentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|solutionrelative:bll\\irentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05D609E-E4A9-456D-9A85-7656395BCD52}|DTO\\DTO.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\dto\\rentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05D609E-E4A9-456D-9A85-7656395BCD52}|DTO\\DTO.csproj|solutionrelative:dto\\rentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|solutionrelative:server_side\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\bll\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|solutionrelative:bll\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\dal\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|solutionrelative:dal\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\bll\\purchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|solutionrelative:bll\\purchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\dal\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|solutionrelative:dal\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\dal\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|solutionrelative:dal\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\dal\\healthfund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|solutionrelative:dal\\healthfund.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\dal\\gymdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|solutionrelative:dal\\gymdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\dal\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|solutionrelative:dal\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\bll\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|solutionrelative:bll\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\bll\\ipurchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E57A8-8606-4563-9F27-5C1316779ADB}|BLL\\BLL.csproj|solutionrelative:bll\\ipurchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|solutionrelative:server_side\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\controllers\\healthfundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F631EF-EABC-47E8-A4DD-82EFDC100008}|server_side\\server_side.csproj|solutionrelative:server_side\\controllers\\healthfundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|d:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\dal\\migrations\\20250721192610_kkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9464D57-46FE-427A-8DF5-726B08C328DE}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250721192610_kkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RentalController.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Controllers\\RentalController.cs",
+              "RelativeDocumentMoniker": "server_side\\Controllers\\RentalController.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Controllers\\RentalController.cs",
+              "RelativeToolTip": "server_side\\Controllers\\RentalController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:39:22.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Program.cs",
+              "RelativeDocumentMoniker": "server_side\\Program.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Program.cs",
+              "RelativeToolTip": "server_side\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T22:41:05.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PurchaseController.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Controllers\\PurchaseController.cs",
+              "RelativeDocumentMoniker": "server_side\\Controllers\\PurchaseController.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Controllers\\PurchaseController.cs",
+              "RelativeToolTip": "server_side\\Controllers\\PurchaseController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswEIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:28:39.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\User.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\User.cs",
+              "RelativeToolTip": "DAL\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:42:40.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "server_side\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Controllers\\UserController.cs",
+              "RelativeToolTip": "server_side\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:41:55.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\UserRepository.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\UserRepository.cs",
+              "RelativeToolTip": "BLL\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:42:44.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PackageController.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Controllers\\PackageController.cs",
+              "RelativeDocumentMoniker": "server_side\\Controllers\\PackageController.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Controllers\\PackageController.cs",
+              "RelativeToolTip": "server_side\\Controllers\\PackageController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:29:12.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRentalRepository.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\IRentalRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\IRentalRepository.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\IRentalRepository.cs",
+              "RelativeToolTip": "BLL\\IRentalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:43:34.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\Rental.cs",
+              "RelativeDocumentMoniker": "DAL\\Rental.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\Rental.cs",
+              "RelativeToolTip": "DAL\\Rental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:52:34.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "server_side\\Controllers\\LessonController.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "server_side\\Controllers\\LessonController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:09:14.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RentalDTO.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DTO\\RentalDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RentalDTO.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DTO\\RentalDTO.cs",
+              "RelativeToolTip": "DTO\\RentalDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:28:47.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LessonRepository.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\LessonRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\LessonRepository.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\LessonRepository.cs",
+              "RelativeToolTip": "BLL\\LessonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:34:24.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PurchaseRepository.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\PurchaseRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\PurchaseRepository.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\PurchaseRepository.cs",
+              "RelativeToolTip": "BLL\\PurchaseRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:41:35.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\IRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\IRepository.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\IRepository.cs",
+              "RelativeToolTip": "BLL\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:45:24.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RentalRepository.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\RentalRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\RentalRepository.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\RentalRepository.cs",
+              "RelativeToolTip": "BLL\\RentalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:45:14.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\Purchase.cs",
+              "RelativeDocumentMoniker": "DAL\\Purchase.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\Purchase.cs",
+              "RelativeToolTip": "DAL\\Purchase.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:01:50.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Package.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\Package.cs",
+              "RelativeDocumentMoniker": "DAL\\Package.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\Package.cs",
+              "RelativeToolTip": "DAL\\Package.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:01:37.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HealthFund.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\HealthFund.cs",
+              "RelativeDocumentMoniker": "DAL\\HealthFund.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\HealthFund.cs",
+              "RelativeToolTip": "DAL\\HealthFund.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:01:07.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GymDB.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\GymDB.cs",
+              "RelativeDocumentMoniker": "DAL\\GymDB.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\GymDB.cs",
+              "RelativeToolTip": "DAL\\GymDB.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:01:02.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\Category.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\Category.cs",
+              "RelativeToolTip": "DAL\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:00:35.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\IUserRepository.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\IUserRepository.cs",
+              "RelativeToolTip": "BLL\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:44:04.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPurchaseRepository.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\IPurchaseRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\IPurchaseRepository.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\BLL\\IPurchaseRepository.cs",
+              "RelativeToolTip": "BLL\\IPurchaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:41:03.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "server_side\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "server_side\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:50:43.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HealthFundController.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Controllers\\HealthFundController.cs",
+              "RelativeDocumentMoniker": "server_side\\Controllers\\HealthFundController.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\server_side\\Controllers\\HealthFundController.cs",
+              "RelativeToolTip": "server_side\\Controllers\\HealthFundController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:48:31.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250721192610_kkk.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\Migrations\\20250721192610_kkk.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250721192610_kkk.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8  \u05E8\u05D9\u05D0\u05E7\u05D8 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4\\server_side\\DAL\\Migrations\\20250721192610_kkk.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250721192610_kkk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T19:26:10.231Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 28,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

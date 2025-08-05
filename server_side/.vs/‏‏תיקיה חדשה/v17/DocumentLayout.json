@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\server_side\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server_side\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\DTO\\PurchaseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\PurchaseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\DAL\\Package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\DAL\\DAL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\DAL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\BLL\\cast\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\cast\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\BLL\\LessonRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\LessonRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\BLL\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\BLL\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\server_side\\Program.cs",
+              "RelativeDocumentMoniker": "server_side\\Program.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\server_side\\Program.cs",
+              "RelativeToolTip": "server_side\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:56:57.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurchaseDTO.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\DTO\\PurchaseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PurchaseDTO.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\DTO\\PurchaseDTO.cs",
+              "RelativeToolTip": "DTO\\PurchaseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:56:52.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Package.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\DAL\\Package.cs",
+              "RelativeDocumentMoniker": "DAL\\Package.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\DAL\\Package.cs",
+              "RelativeToolTip": "DAL\\Package.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:56:44.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T13:56:40.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\BLL\\cast\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BLL\\cast\\MappingProfile.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\BLL\\cast\\MappingProfile.cs",
+              "RelativeToolTip": "BLL\\cast\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:56:31.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LessonRepository.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\BLL\\LessonRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\LessonRepository.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\BLL\\LessonRepository.cs",
+              "RelativeToolTip": "BLL\\LessonRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:56:22.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\BLL\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\CategoryRepository.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\BLL\\CategoryRepository.cs",
+              "RelativeToolTip": "BLL\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:56:18.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\BLL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BLL\\UserRepository.cs",
+              "ToolTip": "D:\\\u05E1\u05DE\u05D9\u05E0\u05E8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E3 \u05E9\u05E0\u05D4 \u05E1\u05D9 \u05E9\u05D0\u05E8\u05E4 \u05D5\u05E8\u05D9\u05D0\u05E7\u05D8\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\BLL\\UserRepository.cs",
+              "RelativeToolTip": "BLL\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:51:55.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 28,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

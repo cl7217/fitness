@@ -1,0 +1,443 @@
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\appsettings.Development.json
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\appsettings.json
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\server_side.exe
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\server_side.deps.json
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\server_side.runtimeconfig.json
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\server_side.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\server_side.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\server_side.csproj.AssemblyReference.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\server_side.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\server_side.AssemblyInfoInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\server_side.AssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\server_side.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\server_side.MvcApplicationPartsAssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\server_side.MvcApplicationPartsAssemblyInfo.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\staticwebassets.build.json
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\staticwebassets.development.json
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\scopedcss\bundle\server_side.styles.css
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\server_side.csproj.CopyComplete
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\server_side.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\refint\server_side.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\server_side.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\server_side.genruntimeconfig.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\obj\Debug\net6.0\ref\server_side.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\System.Collections.Immutable.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Humanizer.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\BLL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\BLL.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Castle.Core.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\AutoMapper.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\server_side\bin\Debug\net6.0\DTO.pdb
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\appsettings.Development.json
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\appsettings.json
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\server_side.staticwebassets.endpoints.json
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\server_side.exe
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\server_side.deps.json
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\server_side.runtimeconfig.json
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\server_side.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\server_side.pdb
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\AutoMapper.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Castle.Core.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Humanizer.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\BLL.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\DAL.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\DTO.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\BLL.pdb
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\DAL.pdb
+D:\העתקת פרויקטים\c#\project\server_side\server_side\bin\Debug\net6.0\DTO.pdb
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\server_side.csproj.AssemblyReference.cache
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\server_side.GeneratedMSBuildEditorConfig.editorconfig
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\server_side.AssemblyInfoInputs.cache
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\server_side.AssemblyInfo.cs
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\server_side.csproj.CoreCompileInputs.cache
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\server_side.MvcApplicationPartsAssemblyInfo.cs
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\server_side.MvcApplicationPartsAssemblyInfo.cache
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\server_side.sourcelink.json
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\scopedcss\bundle\server_side.styles.css
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\staticwebassets.build.json
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\staticwebassets.development.json
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\server_s.F725C8F8.Up2Date
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\server_side.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\refint\server_side.dll
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\server_side.pdb
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\server_side.genruntimeconfig.cache
+D:\העתקת פרויקטים\c#\project\server_side\server_side\obj\Debug\net6.0\ref\server_side.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\appsettings.Development.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\appsettings.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\server_side.staticwebassets.endpoints.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\server_side.exe
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\server_side.deps.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\server_side.runtimeconfig.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\server_side.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\server_side.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\AutoMapper.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Castle.Core.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Humanizer.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\BLL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\DTO.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\BLL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\bin\Debug\net6.0\DTO.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\server_side.csproj.AssemblyReference.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\server_side.GeneratedMSBuildEditorConfig.editorconfig
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\server_side.AssemblyInfoInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\server_side.AssemblyInfo.cs
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\server_side.csproj.CoreCompileInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\server_side.MvcApplicationPartsAssemblyInfo.cs
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\server_side.MvcApplicationPartsAssemblyInfo.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\server_side.sourcelink.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\scopedcss\bundle\server_side.styles.css
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\staticwebassets.build.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\staticwebassets.development.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\server_s.F725C8F8.Up2Date
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\server_side.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\refint\server_side.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\server_side.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\server_side.genruntimeconfig.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\server_side\obj\Debug\net6.0\ref\server_side.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\appsettings.Development.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\appsettings.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\server_side.staticwebassets.endpoints.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\server_side.exe
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\server_side.deps.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\server_side.runtimeconfig.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\server_side.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\server_side.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\AutoMapper.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Castle.Core.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Humanizer.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\BLL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\DTO.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\BLL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\DTO.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\server_side.csproj.AssemblyReference.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\server_side.GeneratedMSBuildEditorConfig.editorconfig
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\server_side.AssemblyInfoInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\server_side.AssemblyInfo.cs
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\server_side.csproj.CoreCompileInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\server_side.MvcApplicationPartsAssemblyInfo.cs
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\server_side.MvcApplicationPartsAssemblyInfo.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\server_side.sourcelink.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\scopedcss\bundle\server_side.styles.css
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\staticwebassets.build.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\staticwebassets.development.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\server_s.F725C8F8.Up2Date
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\server_side.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\refint\server_side.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\server_side.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\server_side.genruntimeconfig.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\obj\Debug\net6.0\ref\server_side.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\server_side\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\appsettings.Development.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\appsettings.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\server_side.staticwebassets.endpoints.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\server_side.exe
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\server_side.deps.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\server_side.runtimeconfig.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\server_side.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\server_side.pdb
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\AutoMapper.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Castle.Core.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Humanizer.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\BLL.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\DTO.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\BLL.pdb
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\bin\Debug\net6.0\DTO.pdb
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\server_side.csproj.AssemblyReference.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\server_side.GeneratedMSBuildEditorConfig.editorconfig
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\server_side.AssemblyInfoInputs.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\server_side.AssemblyInfo.cs
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\server_side.csproj.CoreCompileInputs.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\server_side.MvcApplicationPartsAssemblyInfo.cs
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\server_side.MvcApplicationPartsAssemblyInfo.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\server_side.sourcelink.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\scopedcss\bundle\server_side.styles.css
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\staticwebassets.build.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\staticwebassets.development.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\server_s.F725C8F8.Up2Date
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\server_side.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\refint\server_side.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\server_side.pdb
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\server_side.genruntimeconfig.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\server_side\obj\Debug\net6.0\ref\server_side.dll

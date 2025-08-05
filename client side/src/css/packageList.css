@@ -1,0 +1,13 @@
+.packageList-list{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    grid-auto-columns: max-content;
+    gap: 10px;
+    /* background-color: aquamarine; */
+}
+.packageList-btn{
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+}

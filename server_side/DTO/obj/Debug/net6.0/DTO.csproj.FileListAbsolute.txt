@@ -1,0 +1,79 @@
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\bin\Debug\net6.0\DTO.deps.json
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\bin\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\bin\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\bin\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\obj\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\obj\Debug\net6.0\refint\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\obj\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\העתקת פרויקטים\c#\project\server_side\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\העתקת פרויקטים\c#\project\server_side\DTO\bin\Debug\net6.0\DTO.dll
+D:\העתקת פרויקטים\c#\project\server_side\DTO\bin\Debug\net6.0\DTO.pdb
+D:\העתקת פרויקטים\c#\project\server_side\DTO\bin\Debug\net6.0\DAL.dll
+D:\העתקת פרויקטים\c#\project\server_side\DTO\bin\Debug\net6.0\DAL.pdb
+D:\העתקת פרויקטים\c#\project\server_side\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\העתקת פרויקטים\c#\project\server_side\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\העתקת פרויקטים\c#\project\server_side\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\העתקת פרויקטים\c#\project\server_side\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\העתקת פרויקטים\c#\project\server_side\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\העתקת פרויקטים\c#\project\server_side\DTO\obj\Debug\net6.0\DTO.sourcelink.json
+D:\העתקת פרויקטים\c#\project\server_side\DTO\obj\Debug\net6.0\DTO.csproj.Up2Date
+D:\העתקת פרויקטים\c#\project\server_side\DTO\obj\Debug\net6.0\DTO.dll
+D:\העתקת פרויקטים\c#\project\server_side\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\העתקת פרויקטים\c#\project\server_side\DTO\obj\Debug\net6.0\DTO.pdb
+D:\העתקת פרויקטים\c#\project\server_side\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\bin\Debug\net6.0\DTO.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\bin\Debug\net6.0\DTO.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\bin\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\bin\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\obj\Debug\net6.0\DTO.sourcelink.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\obj\Debug\net6.0\DTO.csproj.Up2Date
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\obj\Debug\net6.0\DTO.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\obj\Debug\net6.0\DTO.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\bin\Debug\net6.0\DTO.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\bin\Debug\net6.0\DTO.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\bin\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\bin\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\obj\Debug\net6.0\DTO.sourcelink.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\obj\Debug\net6.0\DTO.csproj.Up2Date
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\obj\Debug\net6.0\DTO.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\obj\Debug\net6.0\DTO.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\bin\Debug\net6.0\DTO.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\bin\Debug\net6.0\DTO.pdb
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\bin\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\bin\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\obj\Debug\net6.0\DTO.sourcelink.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\obj\Debug\net6.0\DTO.csproj.Up2Date
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\obj\Debug\net6.0\DTO.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\obj\Debug\net6.0\DTO.pdb
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\DTO\obj\Debug\net6.0\ref\DTO.dll

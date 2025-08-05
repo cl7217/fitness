@@ -1,0 +1,43 @@
+ .signin-wapper {
+    width: 300px;
+    border: 1px solid rgb(255, 255, 255, 2);
+    backdrop-filter: blur(15px);
+    color: rgb(0, 0, 0);
+    padding: 30px 40px;
+    border-radius: 12px;
+    text-align: center;
+    font-family:sans-serif ;
+}
+.signin-h2{
+    color: black;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+.signin-btn:hover{
+    animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.05);
+    }
+    100%{
+        transform: scale(1);
+    }
+} 
+.signin-body{
+    background-image: url('../../gymnasium.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    min-width: 100vw;
+    background-size: cover;
+    background-position: center; 
+     background-repeat: no-repeat;
+    background-position: 100%;
+} 
+

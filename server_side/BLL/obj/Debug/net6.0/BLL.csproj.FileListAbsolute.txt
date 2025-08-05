@@ -1,0 +1,89 @@
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\bin\Debug\net6.0\BLL.deps.json
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\bin\Debug\net6.0\BLL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\bin\Debug\net6.0\BLL.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\bin\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\bin\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\obj\Debug\net6.0\BLL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\obj\Debug\net6.0\refint\BLL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\obj\Debug\net6.0\BLL.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\obj\Debug\net6.0\ref\BLL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-1\Chaily Fertig\C#\project\server_side\BLL\bin\Debug\net6.0\DTO.pdb
+D:\העתקת פרויקטים\c#\project\server_side\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\העתקת פרויקטים\c#\project\server_side\BLL\bin\Debug\net6.0\BLL.dll
+D:\העתקת פרויקטים\c#\project\server_side\BLL\bin\Debug\net6.0\BLL.pdb
+D:\העתקת פרויקטים\c#\project\server_side\BLL\bin\Debug\net6.0\DAL.dll
+D:\העתקת פרויקטים\c#\project\server_side\BLL\bin\Debug\net6.0\DTO.dll
+D:\העתקת פרויקטים\c#\project\server_side\BLL\bin\Debug\net6.0\DAL.pdb
+D:\העתקת פרויקטים\c#\project\server_side\BLL\bin\Debug\net6.0\DTO.pdb
+D:\העתקת פרויקטים\c#\project\server_side\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\העתקת פרויקטים\c#\project\server_side\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\העתקת פרויקטים\c#\project\server_side\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\העתקת פרויקטים\c#\project\server_side\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\העתקת פרויקטים\c#\project\server_side\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\העתקת פרויקטים\c#\project\server_side\BLL\obj\Debug\net6.0\BLL.sourcelink.json
+D:\העתקת פרויקטים\c#\project\server_side\BLL\obj\Debug\net6.0\BLL.csproj.Up2Date
+D:\העתקת פרויקטים\c#\project\server_side\BLL\obj\Debug\net6.0\BLL.dll
+D:\העתקת פרויקטים\c#\project\server_side\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\העתקת פרויקטים\c#\project\server_side\BLL\obj\Debug\net6.0\BLL.pdb
+D:\העתקת פרויקטים\c#\project\server_side\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\bin\Debug\net6.0\BLL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\bin\Debug\net6.0\BLL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\bin\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\bin\Debug\net6.0\DTO.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\bin\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\bin\Debug\net6.0\DTO.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\obj\Debug\net6.0\BLL.sourcelink.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\obj\Debug\net6.0\BLL.csproj.Up2Date
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\obj\Debug\net6.0\BLL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\obj\Debug\net6.0\BLL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\‏‏תיקיה חדשה\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\bin\Debug\net6.0\BLL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\bin\Debug\net6.0\BLL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\bin\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\bin\Debug\net6.0\DTO.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\bin\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\bin\Debug\net6.0\DTO.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\obj\Debug\net6.0\BLL.sourcelink.json
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\obj\Debug\net6.0\BLL.csproj.Up2Date
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\obj\Debug\net6.0\BLL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\obj\Debug\net6.0\BLL.pdb
+D:\סמינר\פרויקט סוף שנה סי שארפ וריאקט\server_side\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\bin\Debug\net6.0\BLL.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\bin\Debug\net6.0\BLL.pdb
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\bin\Debug\net6.0\DAL.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\bin\Debug\net6.0\DTO.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\bin\Debug\net6.0\DAL.pdb
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\bin\Debug\net6.0\DTO.pdb
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\obj\Debug\net6.0\BLL.sourcelink.json
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\obj\Debug\net6.0\BLL.csproj.Up2Date
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\obj\Debug\net6.0\BLL.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\obj\Debug\net6.0\BLL.pdb
+D:\סמינר\פרויקט  ריאקט סי שארפ\server_side\BLL\obj\Debug\net6.0\ref\BLL.dll
